@@ -9,13 +9,13 @@ SESA adalah aplikasi Android untuk mengontrol penggunaan energi secara efisien d
 ## Fitur Utama
 
 1. **Logo dan Branding:**
-   ![SESA Logo]
-   (./Logo.png)
+
+   ![SESA Logo](./Logo.png)
 
 3. **Layar Registrasi:**
-   ![Register Screen]
-   (./Register.png)
+
+   ![Register Screen](./Register.png)
 
 5. **Dashboard:**
-   ![Dashboard Screen]
-   (./Home.png)
+
+   ![Dashboard Screen](./Home.png)
